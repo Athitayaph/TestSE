@@ -31,6 +31,7 @@
       <!-- test -->
       <input type="file" name="addfile" id="addfile">
 
+      <div>Test นะ</div>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
