@@ -22,11 +22,15 @@
       <a class="navbar-brand" href="#">
         <img src="img/logo.png" width="30" height="30" alt="">
       </a>
-
+<!-- Test -->
       <a class="navbar-brand" href="index.php">ระบบจองห้องประชุม</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+
+      <!-- test -->
+      <input type="file" name="addfile" id="addfile">
+
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
